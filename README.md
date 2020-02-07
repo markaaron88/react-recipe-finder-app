@@ -1,1 +1,1 @@
-Created a Website Application using React.
+Created a website recipe finder application using React.
