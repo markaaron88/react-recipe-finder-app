@@ -15,8 +15,6 @@ Project is created with:
 * CSS
 	
   ## Setup
-To run this project, install it locally using npm:
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
